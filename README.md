@@ -1,5 +1,5 @@
 ### Discretization_LPV
-##Discretization of Linear Parameter Varying Systems
+## Discretization of Linear Parameter Varying Systems
 
 
 ## This page provides the MatLab code used in Discretization via LFT of continuous state-space models with affine dependence of Linear Varying Parameters (LPV), which was developed with academic purposes. If you use the program in your research, paper or thesis, please cite as:
