@@ -15,3 +15,6 @@ https://ssl4799.websiteseguro.com/swge5/PROCEEDINGS/PDF/CBA2016-0217.pdf
   url                      = {https://ssl4799.websiteseguro.com/swge5/PROCEEDINGS/PDF/CBA2016-0217.pdf}
 } 
             
+
+The version 00 is in: Bench_mark_sal_ident_estadov00.m
+The HTML version is in: DIsc_Local_LPV.html
